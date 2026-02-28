@@ -1,0 +1,9 @@
+# Compilados
+/build/
+*.exe
+
+# Archivos de configuración VScode
+.vscode/
+
+# Archivos de distribución de plantillas
+.dist/
