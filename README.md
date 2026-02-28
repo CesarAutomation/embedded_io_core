@@ -65,19 +65,17 @@ Se busca construir **firmware real y profesional**, no un prototipo de hobby, co
 - Carpeta de proyecto creada
 - Estructura de módulos definida:
 
-```
-embedded_io_core/
-│
-├── src/
-│   ├── main.c
-│   └── control.c
-├── include/
-│   └── control.h
-├── docs/
-│   └── architecture.md
-├── README.md 
-└── .gitignore
-```
+    embedded_io_core/
+    │
+    ├── src/
+    │   ├── main.c
+    │   └── control.c
+    ├── include/
+    │   └── control.h
+    ├── docs/
+    │   └── architecture.md
+    ├── README.md 
+    └── .gitignore
 
 - Funcionalidad implementada:  
   - Loop principal de simulación (`main.c`)  
